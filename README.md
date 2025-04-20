@@ -6,7 +6,7 @@
 - 🤖 Building **touchless tech** (Air-Cursor, virtual assistants)
 - 🧠 Exploring **RPA**, **gesture control**, and **real-time OCR**
 - 🔍 Passionate about making technology **accessible and interactive**
-- 💬 Practicing communication, typing, and automation every day
+- 💬 Practicing cybersec concept, linux and automation every day
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
